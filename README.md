@@ -36,13 +36,6 @@ Programmer Competency Matrix
 <tr>
 <th colspan="5">Software Engineering</th>
 </tr>
-<tr class="headers">
-<td></td>
-<td>2<sup>n</sup> <span class="explain">(Level 0)</span></td>
-<td>n<sup>2</sup> <span class="explain">(Level 1)</span></td>
-<td>n <span class="explain">(Level 2)</span></td>
-<td>log(n) <span class="explain">(Level 3)</span></td>
-</tr>
 <tr>
 <td>source code version control</td>
 <td>Folder backups by date</td>
@@ -66,13 +59,6 @@ Programmer Competency Matrix
 </tr>
 <tr>
 <th colspan="5">Programming</th>
-</tr>
-<tr class="headers">
-<td></td>
-<td>2<sup>n</sup> <span class="explain">(Level 0)</span></td>
-<td>n<sup>2</sup> <span class="explain">(Level 1)</span></td>
-<td>n <span class="explain">(Level 2)</span></td>
-<td>log(n) <span class="explain">(Level 3)</span></td>
 </tr>
 <tr>
 <td>problem decomposition</td>
