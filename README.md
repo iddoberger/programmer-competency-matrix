@@ -7,10 +7,10 @@ Programmer Competency Matrix
 </tr>
 <tr class="headers">
 <td></td>
-<td>2<sup>n</sup> <span class="explain">(Level 0)</span></td>
-<td>n<sup>2</sup> <span class="explain">(Level 1)</span></td>
-<td>n <span class="explain">(Level 2)</span></td>
-<td>log(n) <span class="explain">(Level 3)</span></td>
+<td>Level 1</td>
+<td>Level 2</td>
+<td>Level 3</td>
+<td>Level 4</td>
 <td>Comments</td>
 </tr>
 <tr class="q">
