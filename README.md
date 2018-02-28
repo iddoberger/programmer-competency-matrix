@@ -12,7 +12,7 @@ Programmer Competency Matrix
 <td>Level 3</td>
 <td>Level 4</td>
 </tr>
-<tr class="q">
+<tr>
 <td>data structures</td>
 <td>Doesn’t know the difference between Array and LinkedList</td>
 <td>Able to explain and use Arrays, LinkedLists, Dictionaries etc in practical programming tasks</td>
