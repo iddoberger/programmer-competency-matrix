@@ -3,7 +3,7 @@ Programmer Competency Matrix
 <table>
 <tbody>
 <tr>
-<th colspan="5">Computer Science</th>
+<th colspan="5">1. Computer Science</th>
 </tr>
 <tr class="headers">
 <td></td>
@@ -13,21 +13,21 @@ Programmer Competency Matrix
 <td>Level 4</td>
 </tr>
 <tr>
-<td>data structures</td>
+<td>1.a data structures</td>
 <td>Doesn’t know the difference between Array and LinkedList</td>
 <td>Able to explain and use Arrays, LinkedLists, Dictionaries etc in practical programming tasks</td>
 <td>Knows space and time tradeoffs of the basic data structures, Arrays vs LinkedLists, Able to explain how hashtables can be implemented and can handle collisions, Priority queues and ways to implement them etc.</td>
 <td>Knowledge of advanced data structures like B-trees, binomial and fibonacci heaps, AVL/Red Black trees, Splay Trees, Skip Lists, tries etc.</td>
 </tr>
 <tr>
-<td>algorithms</td>
+<td>1.b algorithms</td>
 <td>Unable to find the average of numbers in an array (It’s hard to believe but I’ve interviewed such candidates)</td>
 <td>Basic sorting, searching and data structure traversal and retrieval algorithms</td>
 <td>Tree, Graph, simple greedy and divide and conquer algorithms, is able to understand the relevance of the levels of this matrix.</td>
 <td>Able to recognize and code dynamic programming solutions, good knowledge of graph algorithms, good knowledge of numerical computation algorithms, able to identify NP problems etc.</td>
 </tr>
 <tr>
-<td>systems programming</td>
+<td>1.c systems programming</td>
 <td>Doesn’t know what a compiler, linker or interpreter is</td>
 <td>Basic understanding of compilers, linker and interpreters. Understands what assembly code is and how things work at the hardware level. Some knowledge of virtual memory and paging.</td>
 <td>Understands kernel mode vs. user mode, multi-threading, synchronization primitives and how they’re implemented, able to read assembly code. Understands how networks work, understanding of network protocols and socket level programming.</td>
