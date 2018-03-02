@@ -1,4 +1,5 @@
 Programmer Competency Matrix
+31 questions, 1- 4 options. grade range: 31- 124
 
 <table>
 <tbody>
