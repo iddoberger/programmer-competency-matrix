@@ -167,24 +167,31 @@ Programmer Competency Matrix
 <td>Can do basic database administration, performance optimization, index optimization, write advanced select queries, able to replace cursor usage with relational sql, understands how data is stored internally, understands how indexes are stored internally, understands how databases can be mirrored, replicated etc. Understands how the two phase commit works.</td>
 </tr>
 <tr>
+<td>22. regular expressions</td>
+<td>Does not understand the concept</td>
+<td>Escaping special characters (\n, \t, \\)</td>
+<td>Basic regular expressions (letters, digits, wildcard characters, number of occurrences, grouping)</td>
+<td>Advanced features (backreferences, lookahead, lookbehind, greedy/lazy expressions, recursion, subroutines); differences between regex dialects</td>
+</tr>
+<tr>
 <th colspan="5">D. Experience</th>
 </tr>
 <tr>
-<td>22. languages with professional experience</td>
+<td>23. languages with professional experience</td>
 <td>Imperative or Object Oriented</td>
 <td>Imperative, Object-Oriented and declarative (SQL), added bonus if they understand static vs dynamic typing, weak vs strong typing and static inferred types</td>
 <td>Functional, added bonus if they understand lazy evaluation, currying, continuations</td>
 <td>Concurrent (Erlang, Oz) and Logic (Prolog)</td>
 </tr>
 <tr>
-<td>23. platforms with professional experience</td>
+<td>24. platforms with professional experience</td>
 <td>1</td>
 <td>2-3</td>
 <td>4-5</td>
 <td>6+</td>
 </tr>
 <tr>
-<td>24. years of professional experience</td>
+<td>25. years of professional experience</td>
 <td>1</td>
 <td>2-5</td>
 <td>6-9</td>
@@ -201,49 +208,49 @@ Programmer Competency Matrix
 <th colspan="5">E. Knowledge</th>
 </tr>
 <tr>
-<td>25. tool knowledge</td>
+<td>26. tool knowledge</td>
 <td>Limited to primary IDE (VS.Net, Eclipse etc.)</td>
 <td>Knows about some alternatives to popular and standard tools.</td>
 <td>Good knowledge of editors, debuggers, IDEs, open source alternatives etc. etc. For e.g. someone who knows most of the tools from Scott Hanselman’s power tools list. Has used ORM tools.</td>
 <td>Has actually written tools and scripts, added bonus if they’ve been published.</td>
 </tr>
 <tr>
-<td>26. languages exposed to</td>
+<td>27. languages exposed to</td>
 <td>Imperative or Object Oriented</td>
 <td>Imperative, Object-Oriented and declarative (SQL), added bonus if they understand static vs dynamic typing, weak vs strong typing and static inferred types</td>
 <td>Functional, added bonus if they understand lazy evaluation, currying, continuations</td>
 <td>Concurrent (Erlang, Oz) and Logic (Prolog)</td>
 </tr>
 <tr>
-<td>27. codebase knowledge</td>
+<td>28. codebase knowledge</td>
 <td>Has never looked at the codebase</td>
 <td>Basic knowledge of the code layout and how to build the system</td>
 <td>Good working knowledge of code base, has implemented several bug fixes and maybe some small features.</td>
 <td>Has implemented multiple big features in the codebase and can easily visualize the changes required for most features or bug fixes.</td>
 </tr>
 <tr>
-<td>28. knowledge of upcoming technologies</td>
+<td>29. knowledge of upcoming technologies</td>
 <td>Has not heard of the upcoming technologies</td>
 <td>Has heard of upcoming technologies in the field</td>
 <td>Has downloaded the alpha preview/CTP/beta and read some articles/manuals</td>
 <td>Has played with the previews and has actually built something with it and as a bonus shared that with everyone else</td>
 </tr>
 <tr>
-<td>29. platform internals</td>
+<td>30. platform internals</td>
 <td>Zero knowledge of platform internals</td>
 <td>Has basic knowledge of how the platform works internally</td>
 <td>Deep knowledge of platform internals and can visualize how the platform takes the program and converts it into executable code.</td>
 <td>Has written tools to enhance or provide information on platform internals. For e.g. disassemblers, decompilers, debuggers etc.</td>
 </tr>
 <tr>
-<td>30. books</td>
+<td>31. books</td>
 <td>Unleashed series, 21 days series, 24 hour series, dummies series…</td>
 <td>Code Complete, Don’t Make me Think, Mastering Regular Expressions</td>
 <td>Design Patterns, Peopleware, Programming Pearls, Algorithm Design Manual, Pragmatic Programmer, Mythical Man month</td>
 <td>Structure and Interpretation of Computer Programs, Concepts Techniques, Models of Computer Programming, Art of Computer Programming, Database systems , by C. J Date, Thinking Forth, Little Schemer</td>
 </tr>
 <tr>
-<td>31. blogs</td>
+<td>32. blogs</td>
 <td>Has heard of them but never got the time.</td>
 <td>Reads tech/programming/software engineering blogs and listens to podcasts regularly.</td>
 <td>Maintains a link blog with some collection of useful articles and tools that he/she has collected</td>
